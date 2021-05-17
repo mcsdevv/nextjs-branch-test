@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>New Branch - Commit #2</h1>
+        <h1 className={styles.title}>New Branch - Commit #3</h1>
 
         <p className={styles.description}>
           Get started by editing{" "}
